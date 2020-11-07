@@ -1,7 +1,7 @@
 {
-  "name": "leader-line",
-  "version": "1.0.5",
-  "title": "LeaderLine",
+  "name": "leader-line-fork",
+  "version": "1.0.6",
+  "title": "LeaderLine - fork",
   "description": "Draw a leader line in your web page.",
   "keywords": [
     "leader",
@@ -37,15 +37,25 @@
   "scripts": {
     "test": "node ./test/httpd"
   },
-  "homepage": "https://anseki.github.io/leader-line/",
+  "homepage": "https://github.com/generalui/leader-line",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anseki/leader-line.git"
+    "url": "git://github.com/generalui/leader-line.git"
   },
-  "bugs": "https://github.com/anseki/leader-line/issues",
+  "bugs": "https://github.com/generalui/leader-line/issues",
   "license": "MIT",
   "author": {
     "name": "anseki",
     "url": "https://github.com/anseki"
-  }
+  },
+  "contributors": [
+    {
+      "name": "batch08",
+      "url": "https://github.com/batch08"
+    },
+    {
+      "name": "Jon Ryser",
+      "url": "https://github.com/jonryser"
+    }
+  ]
 }
